@@ -5,8 +5,8 @@
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
 ### [Marco Aliaga](https://www.linkedin.com/in/marcoaliaga8/)
 
-varBROS
 # Links
+*Below are the links and details for our project.*
 - [Team Agreement](https://docs.google.com/document/d/1G7o9wslHWrcdcIyhGLTfnsG3ztmW6cCKzJw0XU_VWDE/edit)
 - [SOP]
 - [System Selection doc](https://docs.google.com/document/d/1yvQNL8R930WrLm91pAD-CFRLalg7O62nhslzjoJ4bNk/edit?usp=sharing)
