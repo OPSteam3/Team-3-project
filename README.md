@@ -7,7 +7,7 @@
 
 # Links
 *Below are the links and details for our project.*
-- [Team Agreement](https://docs.google.com/document/d/1G7o9wslHWrcdcIyhGLTfnsG3ztmW6cCKzJw0XU_VWDE/edit)
+- [Team Agreement](https://github.com/varBROS/varBROS/blob/main/Group%20Project_%20Team%20Agreement%20(1).pdf)
 - [SOP](https://github.com/varBROS/varBROS/blob/main/SOP.md)
 - [System Selection doc](https://docs.google.com/document/d/1yvQNL8R930WrLm91pAD-CFRLalg7O62nhslzjoJ4bNk/edit?usp=sharing)
 - [Topologies/Visuals](https://docs.google.com/document/d/1tFaPxveTsfDZ34pOFOc4f2TKWbq0csfYIcDWEp3pUDs/edit?usp=sharing)
