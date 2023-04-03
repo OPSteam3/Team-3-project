@@ -272,16 +272,16 @@ ________________________________________________________________
  > - IT Security Administrator will ensure that all relevant personnel receive training on the network security policy and guidelines.
 Incident Response and Recovery:
 
->  **4.4.1. IT Security Administrator:**
+>  **IT Security Administrator:**
  > - Will develop and maintain a network security incident response plan to address potential security breaches or attacks.
 
-**4.4.2.** 
+
  > - In the event of a security incident, IT Security Administrator will follow the incident response plan, which includes containment, eradication, recovery, and post-incident analysis.
 
-**4.4.3.** 
+ 
  > - IT Security Administrator will document all security incidents and provide a report to the IT Manager, detailing the cause, impact, and remediation actions taken.
 
-> **4.5**
+
  > - Patch Management and Vulnerability Assessment:
   > - IT Security Administrator will monitor for new security patches and updates for network devices, operating systems, and applications.
   > - IT Security Administrator will test and deploy patches and updates following a predefined schedule or as needed, based on the severity and potential impact of the vulnerability.
