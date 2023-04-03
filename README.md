@@ -1,4 +1,4 @@
-# varBROS
+# var()BROS
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
