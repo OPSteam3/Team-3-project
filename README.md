@@ -11,4 +11,4 @@ Team 3 project
 [System Selection doc]
 [Topologies/Visuals]
 [Slideshow](https://docs.google.com/presentation/d/1dPyzRTPf2aGJfoClzM-qQFnzpn36TnLyspsyvtsmA9A/edit) 
-[Trello}(https://trello.com/b/Gq4Hd1kG/ops-301-team)
+[Trello](https://trello.com/b/Gq4Hd1kG/ops-301-team)
