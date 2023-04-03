@@ -1,11 +1,11 @@
-# Team-3-project
+# varBROS
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
 ### [Marco Aliaga](https://www.linkedin.com/in/marcoaliaga8/)
 
-Team 3 project
+varBROS
 # Links
 - [Team Agreement](https://docs.google.com/document/d/1G7o9wslHWrcdcIyhGLTfnsG3ztmW6cCKzJw0XU_VWDE/edit)
 - [SOP]
