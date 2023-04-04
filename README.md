@@ -1,7 +1,7 @@
 ![logo](https://github.com/varBROS/varBROS/blob/main/var.png)
 ___
 # ![linkd](https://github.com/varBROS/varBROS/blob/main/LinkedIn-button-Connect-With-Me.jpg)
-## ![arrow](https://github.com/varBROS/varBROS/blob/main/Untitled%20design.mp4)
+## ![arrow](https://github.com/varBROS/varBROS/blob/main/giphy.gif)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
