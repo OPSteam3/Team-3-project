@@ -1,11 +1,12 @@
-<div align="center"> ![logo](https://github.com/varBROS/varBROS/blob/main/var.png) </div>
+![logo](https://github.com/varBROS/varBROS/blob/main/var.png)
 ___
-## **Scenerio:** 
+##  **Scenerio:**
 varBROS is tasked with updating the core IT infrastructure of a recent GlobeX acquisition. This young, innovative startup aligns well with the mission of GlobeX; unfortunately, its IT systems do not. varBROS believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, your team believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.
 ___
 
-# Links
-*Below are the links and details for our project.*
+# Links ⛓️
+
+*Below are the links and details for our 301 End of course project.*
 - [Team Agreement](https://github.com/varBROS/varBROS/blob/main/Group%20Project_%20Team%20Agreement%20(1).pdf)
 - [SOP](https://github.com/varBROS/varBROS/blob/main/SOP.md)
 - [System Selection doc](https://github.com/varBROS/varBROS/blob/main/Ops-301d6%20Team3%20System%20Selection(Prep%202).pdf)
@@ -21,4 +22,3 @@ ___
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
 ### [Marco Aliaga](https://www.linkedin.com/in/marcoaliaga8/)
-
