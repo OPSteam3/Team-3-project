@@ -1,6 +1,6 @@
 ![logo](https://github.com/varBROS/varBROS/blob/main/var.png)
 ___
-Add us on ![linkd](https://github.com/varBROS/varBROS/blob/main/Untitled%20design%20(2).png)
+Add us on ![linkd](https://github.com/varBROS/varBROS/blob/main/Untitled%20design%20(3).png)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
