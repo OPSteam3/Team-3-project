@@ -1,6 +1,6 @@
 ![logo](https://github.com/varBROS/varBROS/blob/main/var.png)
 ___
-##  **Scenerio:**
+##  **Scenerio:** 📜
 varBROS is tasked with updating the core IT infrastructure of a recent GlobeX acquisition. This young, innovative startup aligns well with the mission of GlobeX; unfortunately, its IT systems do not. varBROS believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, your team believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.
 ___
 
