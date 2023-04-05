@@ -28,5 +28,5 @@ ___
 **I am a current Georgia NG soldier tranistioning into Cybersecurity.** 
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
 __
-![Marco]
+![Marco](https://github.com/varBROS/varBROS/blob/main/Hotmic.jpg)
 ### [Marco Aliaga](https://www.linkedin.com/in/marcoaliaga8/)
