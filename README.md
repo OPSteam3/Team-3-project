@@ -15,7 +15,7 @@ ___
 - [Trello](https://trello.com/b/Gq4Hd1kG/ops-301-team)
 ___
 
-# ![linkd](https://github.com/varBROS/varBROS/blob/main/LinkedIn-button-Connect-With-Me.jpg)
+# ![linkd](https://github.com/varBROS/varBROS/blob/main/imageedit_5_8262048883.jpg)
 ## ![arrow](https://github.com/varBROS/varBROS/blob/main/imageedit_3_5869932467.gif)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ___
