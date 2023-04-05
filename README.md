@@ -27,4 +27,6 @@ ___
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
 **I am a current Georgia NG soldier tranistioning into Cybersecurity.** 
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
+__
+![Marco]
 ### [Marco Aliaga](https://www.linkedin.com/in/marcoaliaga8/)
