@@ -21,7 +21,7 @@ ___
 ___
 ![DERcus](https://github.com/varBROS/varBROS/blob/main/DERcus.jpg)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
-IT Property Specialist transitioning into Cybersecurity.
+**IT Property Specialist transitioning into Cybersecurity.**
 ___
 ![phipps](https://github.com/varBROS/varBROS/blob/main/phippss.jpg)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
