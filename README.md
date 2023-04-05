@@ -18,6 +18,8 @@ ___
 # ![linkd](https://github.com/varBROS/varBROS/blob/main/LinkedIn-button-Connect-With-Me.jpg)
 ## ![arrow](https://github.com/varBROS/varBROS/blob/main/small%20arrow.gif)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
+___
+![DERcus](https://github.com/varBROS/varBROS/blob/main/DERcus.jpg)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
 IT Property Specialist transitioning into Cybersecurity.
 ___
