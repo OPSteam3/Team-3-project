@@ -19,7 +19,7 @@ ___
 ## ![arrow](https://github.com/varBROS/varBROS/blob/main/giphy.gif)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
-![phipps](https://github.com/varBROS/varBROS/blob/main/phipps.png)
+![phipps](https://github.com/varBROS/varBROS/blob/main/phippss.jpg)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
 **I am a current Georgia NG soldier tranistioning into Cybersecurity.** 
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
