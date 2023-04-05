@@ -23,7 +23,7 @@ ___
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
 **IT Property Specialist transitioning into Cybersecurity.**
 ___
-![phipps](https://github.com/varBROS/varBROS/blob/main/phippss.jpg)
+![phipps](https://github.com/varBROS/varBROS/blob/main/jp.jpg)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
 **I am a current Georgia National Guard soldier tranistioning into Cybersecurity.** 
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
