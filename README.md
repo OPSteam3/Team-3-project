@@ -31,4 +31,4 @@ ___
 ![Marco](https://github.com/varBROS/varBROS/blob/main/Hotmic.jpg)
 
 **Veteran > Software Engineer > CyberSecurity Professional**
-### [Marco Aliaga](https://www.linkedin.com/in/marcoaliaga8/)
+### [Marco Aliaga](https://github.com/varBROS/varBROS/blob/main/Hotmic_.jpg)
