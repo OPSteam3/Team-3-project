@@ -18,6 +18,7 @@ ___
 # ![linkd](https://github.com/varBROS/varBROS/blob/main/imageedit_5_8262048883.jpg)
 ## ![arrow](https://github.com/varBROS/varBROS/blob/main/deontae_.jpg)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
+**Hi, my name is Deontae Carter, and I am a IT professional with a background in cybersecurity. I've spent 10 years serving our country as a Navy veteran, and during that time, I've obtained four industry certifications that have allowed me to hone my skills to remain competitive with my peers.**
 ___
 ![DERcus](https://github.com/varBROS/varBROS/blob/main/DERcus1.jpg)
 ### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
