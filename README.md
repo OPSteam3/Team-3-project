@@ -1,7 +1,7 @@
 ![logo](https://github.com/varBROS/varBROS/blob/main/var.png)
 ___
 ##  **Scenerio:** 📜
-vārBROS is tasked with updating the core IT infrastructure of a recent GlobeX acquisition. SunFlow is a young and innovative, startup that aligns well with the mission of GlobeX; unfortunately, its IT systems do not. vārBROS believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, vārBROS believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.
+*vārBROS is tasked with updating the core IT infrastructure of a recent GlobeX acquisition. SunFlow is a young and innovative, startup that aligns well with the mission of GlobeX; unfortunately, its IT systems do not. vārBROS believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, vārBROS believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.*
 ___
 
 # Links ⛓️
