@@ -16,7 +16,7 @@ ___
 ___
 
 # ![linkd](https://github.com/varBROS/varBROS/blob/main/imageedit_5_8262048883.jpg)
-## ![arrow](https://github.com/varBROS/varBROS/blob/main/imageedit_3_5869932467.gif)
+## ![arrow](https://github.com/varBROS/varBROS/blob/main/deontae_.jpg)
 ### [Deontae Carter](https://www.linkedin.com/in/deontae-carter/)
 ___
 ![DERcus](https://github.com/varBROS/varBROS/blob/main/DERcus1.jpg)
