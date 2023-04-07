@@ -40,6 +40,10 @@ ___
 ___
 
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
+
+![sage](https://github.com/varBROS/varBROS/blob/main/sage.jpg)
+
+[![Image of Sage](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/justintabios/)
 ___
 ![Marco](https://github.com/varBROS/varBROS/blob/main/Hotmic_.jpg)
 
