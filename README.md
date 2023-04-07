@@ -45,6 +45,7 @@ ___
 ![sage](https://github.com/varBROS/varBROS/blob/main/sage.jpg)
 
 [![Image of Sage](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/justintabios/)   [![Image of Deontae Carter](https://github.com/varBROS/varBROS/blob/main/git.png)](https://github.com/AnnyeongAloha)
+** Army Veteran, Transitioning from Massage Therapy to Cybersecurity. 
 ___
 ![Marco](https://github.com/varBROS/varBROS/blob/main/Hotmic_.jpg)
 
