@@ -16,7 +16,6 @@ ___
 - [System Selection doc](https://github.com/varBROS/varBROS/blob/main/Ops-301d6%20Team3%20System%20Selection(Prep%202).pdf)
 - [Topologies/Visuals](https://github.com/varBROS/varBROS/blob/main/varbros%20initial%20topology.pdf)
 - [Slideshow](https://docs.google.com/presentation/d/1dPyzRTPf2aGJfoClzM-qQFnzpn36TnLyspsyvtsmA9A/edit) 
-- [Trello](https://trello.com/b/Gq4Hd1kG/ops-301-team)
 ___
 
 
