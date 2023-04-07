@@ -16,6 +16,7 @@ ___
 - [System Selection doc](https://github.com/varBROS/varBROS/blob/main/Ops-301d6%20Team3%20System%20Selection(Prep%202).pdf)
 - [Topologies/Visuals](https://github.com/varBROS/varBROS/blob/main/varbros%20initial%20topology.pdf)
 - [Slideshow](https://github.com/varBROS/varBROS/blob/main/Ops%20Mid_Final%20Project%20Deck%20varBROS.pdf) 
+- [Video Presentation](https://github.com/varBROS/varBROS/blob/main/Video%20Presentation.md)
 ___
 
 
