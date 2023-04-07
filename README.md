@@ -27,8 +27,10 @@ ___
 [![Image of Deontae Carter](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)](https://www.linkedin.com/in/deontae-carter/)
 ___
 ![DERcus](https://github.com/varBROS/varBROS/blob/main/DERcus1.jpg)
-### [Dericus Horner](https://www.linkedin.com/in/dericus-horner/)
+
 **IT Property Specialist transitioning into Cybersecurity.**
+
+[![Image of Dericus Horner](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/dericus-horner/])
 ___
 ![phipps](https://github.com/varBROS/varBROS/blob/main/jp.jpg)
 ### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
