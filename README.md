@@ -33,11 +33,17 @@ ___
 [![Image of Dericus Horner](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/dericus-horner/])
 ___
 ![phipps](https://github.com/varBROS/varBROS/blob/main/jp.jpg)
-### [Joshua Phipps](https://www.linkedin.com/in/joshua-phipps-755a20264/)
+
 **I am a current Georgia National Guard soldier tranistioning into Cybersecurity.** 
+
+[![Image of Joshua](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/joshua-phipps-755a20264/])
+___
+
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
 ___
 ![Marco](https://github.com/varBROS/varBROS/blob/main/Hotmic_.jpg)
 
 **Veteran > Software Engineer > CyberSecurity Professional**
-### [Marco Aliaga](https://github.com/varBROS/varBROS/blob/main/Hotmic_.jpg)
+
+[![Image of Marco](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/marcoaliaga8/])
+
