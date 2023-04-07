@@ -30,7 +30,7 @@ ___
 
 **IT Property Specialist transitioning into Cybersecurity.**
 
-[![Image of Dericus Horner](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/dericus-horner/])
+[![Image of Dericus Horner](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/dericus-horner/])     [![Image of Deontae Carter](https://github.com/varBROS/varBROS/blob/main/git.png)](https://github.com/Dhorner4)
 ___
 ![phipps](https://github.com/varBROS/varBROS/blob/main/jp.jpg)
 
@@ -43,11 +43,12 @@ ___
 
 ![sage](https://github.com/varBROS/varBROS/blob/main/sage.jpg)
 
-[![Image of Sage](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/justintabios/)
+[![Image of Sage](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/justintabios/)   [![Image of Deontae Carter](https://github.com/varBROS/varBROS/blob/main/git.png)](https://github.com/AnnyeongAloha)
 ___
 ![Marco](https://github.com/varBROS/varBROS/blob/main/Hotmic_.jpg)
 
+[![Image of Marco](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/marcoaliaga8/])    [![Image of Deontae Carter](https://github.com/varBROS/varBROS/blob/main/git.png)](https://github.com/kharne8)
+
 **Veteran > Software Engineer > CyberSecurity Professional**
 
-[![Image of Marco](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/marcoaliaga8/])
 
