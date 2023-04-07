@@ -36,7 +36,8 @@ ___
 
 **I am a current Georgia National Guard soldier tranistioning into Cybersecurity.** 
 
-[![Image of Joshua](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/joshua-phipps-755a20264/])
+[![Image of Joshua](https://github.com/varBROS/varBROS/blob/main/imageedit_15_8425434777.jpg)]([https://www.linkedin.com/in/joshua-phipps-755a20264/])  [![Image of Deontae Carter](https://github.com/varBROS/varBROS/blob/main/git.png)](https://github.com/joshp27)
+
 ___
 
 ### [Justin Tabios](https://www.linkedin.com/in/justintabios/)
