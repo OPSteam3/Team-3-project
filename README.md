@@ -1,7 +1,11 @@
 ![logo](https://github.com/varBROS/varBROS/blob/main/var.png)
+
+## varBROS is an established IT team that works for Globex. Our members specialize in networking, coding and various technical skills that will help lead your company to the future. We’re here to Acquire. Innovate and Elevate. 
 ___
 ##  **Scenerio:** 📜
 *vārBROS is tasked with updating the core IT infrastructure of a recent GlobeX acquisition. SunFlow is a young and innovative, startup that aligns well with the mission of GlobeX; unfortunately, its IT systems do not. vārBROS believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, vārBROS believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.*
+
+***varBROS is a group of cohorts currently erolled at Code Fellows OPS Cybersecurity class. This is a collection of our 301 Networking final project.***
 ___
 
 # Links ⛓️
