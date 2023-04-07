@@ -4,7 +4,7 @@
 *varBROS consists of a well developed team with a variety of skill sets from different backgrounds*
 
 #
-## **How will network account needs be handled for employees being onboarded?**
+## **Employee onboard SOP**
 ## <u>*Purpose:*</u>
 >  A Standard Operating Procedure (SOP) for onboarding new employees using Active Directory.
 ## <u>Scope</u>
@@ -32,7 +32,7 @@ SOPs-  Standard Operating Procedure
 ________________________________________________________________
 
 #
-## **How will network account needs be handled for employees being Terminated?**
+## **Employee termination SOP**
 ## <u>*Purpose:*</u>
 >  The process for handling network account needs for employees who are terminated from the organization. All accounts associated with a terminated employee are properly disabled or deleted, protecting the security and integrity of the organization's network.
 ## <u>Scope</u>
@@ -61,7 +61,7 @@ ________________________________________________________________
 
 ________________________________________________________________
 #
-## **How will OS version control be handled**
+## **OS managment SOP**
 ## <u>*Purpose:*</u>
 >  The purpose of this SOP is to establish a consistent and efficient process for managing operating system (OS) version control, ensuring that all systems within the organization are up to date, secure, and properly maintained.
 
@@ -108,7 +108,7 @@ ________________________________________________________________
 ________________________________________________________________
 
 #
-## **How will you ensure users can access their files from any domain attached system?**
+## **Access files from any domain attached SOP**
 ## <u>*Purpose:*</u>
 >  The purpose of this Standard Operating Procedure (SOP) is to ensure that users can access their files from any domain attached system in a secure and efficient manner. This SOP is aimed at improving productivity and flexibility for users while ensuring the security of organizational data.
 
@@ -142,7 +142,7 @@ ________________________________________________________________
 
 
 #
-## **How will you monitor network traffic?**
+## **Network Traffic SOP**
 ## <u>*Purpose:*</u>
 >  Is to establish a systematic and structured approach to network monitoring that helps ensure the security, performance, and availability of the organization's network, and allows for proactive detection and resolution of network issues.
 
@@ -181,7 +181,7 @@ Definitions](https://www.rapid7.com/fundamentals/network-traffic-analysis/#:~:te
 ________________________________________________________________
 
 #
-## **How will you manage change to the network (such as hardware, software, or configuration changes) while minimizing network disruptions and downtime?**
+## **Network change SOP**
 ## <u>*Purpose:*</u>
 >  The purpose of this procedure is to establish a process for managing changes to the network while minimizing disruptions and downtime. This procedure ensures that all changes are managed in a consistent and controlled manner.
 
@@ -241,7 +241,7 @@ SOP – a detailed document that outlines the "what, when, why" of a procedure.
 ________________________________________________________________
 
 #
-## **How will you manage and maintain network security?**
+## **Network Security SOP**
 ## <u>*Purpose:*</u>
 >  The purpose of this SOP is to establish a consistent and efficient process for managing and maintaining the network security of the organization. 
 
