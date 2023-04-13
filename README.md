@@ -14,7 +14,7 @@ ___
 - [Team Agreement](https://github.com/varBROS/varBROS/blob/main/Group%20Project_%20Team%20Agreement%20(1).pdf)
 - [SOP](https://github.com/varBROS/varBROS/blob/main/SOP.md)
 - [System Selection doc](https://github.com/varBROS/varBROS/blob/main/Ops-301d6%20Team3%20System%20Selection(Prep%202).pdf)
-- [Topologies/Visuals](https://github.com/varBROS/varBROS/blob/main/AAA.png)(https://github.com/varBROS/varBROS/blob/main/vpn.png)
+- [Topologies/Visuals](https://github.com/varBROS/varBROS/blob/main/AAA.png,https://github.com/varBROS/varBROS/blob/main/vpn.png)
 - [Slideshow](https://github.com/varBROS/varBROS/blob/main/Ops%20Mid_Final%20Project%20Deck%20varBROS.pdf) 
 - [Video Presentation](https://github.com/varBROS/varBROS/blob/main/Video%20Presentation.md)
 ___
