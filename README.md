@@ -12,7 +12,6 @@ ___
 
 *Below are the links and details for our 301 End of course project.*
 - [Team Agreement](https://github.com/varBROS/varBROS/blob/main/Group%20Project_%20Team%20Agreement%20(1).pdf)
-- [SOP](https://github.com/varBROS/varBROS/blob/main/SOP.md)
 - [System Selection doc](https://github.com/varBROS/varBROS/blob/main/Ops-301d6%20Team3%20System%20Selection(Prep%202).pdf)
 - [Topologies/Visuals](https://github.com/varBROS/varBROS/blob/main/topology.pdf)
 - [Slideshow](https://github.com/varBROS/varBROS/blob/main/Ops%20Mid_Final%20Project%20Deck%20varBROS.pdf) 
